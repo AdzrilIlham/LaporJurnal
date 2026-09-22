@@ -1,0 +1,2 @@
+user_id,username,password,full_name,email,instancy,role
+1,Adzril123,pbkdf2_sha256$100000$5bd5c2270ca127406e0b2cf28a1a0d28$a72c3cc458345155ac384ebdd07078b78ec0528742f9a00579845911095038a5,AdzrilIlham,adzril56@gmail.com,,user

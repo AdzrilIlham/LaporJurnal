@@ -1,0 +1,10 @@
+report_id,user_id,full_name,is_anonymous,journal_name,journal_url,reason,status_laporan,tanggal_laporan,validator_id,status_jurnal,feedback
+1,3,ahmad hidayat,False,jurnal,https://jurnal.com,tes,done,2024-12-25 22:58:16,1.0,clone,ternyata ini clone ges
+2,3,Anonymous,True,jrunal,https://jurnal.com,tes,done,2024-12-25 23:05:36,2.0,aman,test
+3,3,ahmad hidayat,False,jurnal,https://jurnal.com,testing,done,2024-12-25 23:10:23,3.0,aman,Another feedback  
+4,3,Anonymous,True,jurnalllll,https://jurnal.com,test,done,2024-12-26 00:52:43,1.0,aman,test
+5,6,ahmad hidayat,False,jurnal.com,https://jurnal.com/edu,testing,done,2024-12-29 11:10:55,1.0,aman,jurnal ini aman
+6,3,ahmad hidayat,False,dfhjsdf,https://jurnalku.com,testing,done,2024-12-29 22:22:49,1.0,aman,aman
+7,3,Anonymous,True,cofunction1,https://dukaatuh.com,test2,done,2025-01-01 15:38:14,1.0,aman,aman
+8,3,ahmad hidayat,False,jurnalinformatika,https://jurnalinformatika.com,testing all,done,2025-01-01 17:32:03,1.0,aman,ini jurnal aman
+9,1,Anonymous,True,Jurnal ini,https://jurnalitu.com,iniitu,done,2026-09-22 17:59:53,1.0,aman,aman jurnal nya bang

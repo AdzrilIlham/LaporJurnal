@@ -1,0 +1,4 @@
+validator_id,username,password,full_name,email,instancy,academic_position,scopus_url,sinta_url,google_scholar_url,role
+1,validator1,pbkdf2_sha256$100000$95910dd986d81f3427ebecfba6df0def$857a1885f5489f872f2befab5def9682652505544689b125c26efe36536506e8,Dr. Jurnal,test@gmail.com,ITB,Dosen,http://scopus.com,https://sinta.com,https://scholar.com,validator
+2,validator2,pbkdf2_sha256$100000$5fc8eca3c5db2d7c84fbacdd0c5c092f$8a037c21bc0996a011a4fe7c86f39e0e5eb9382bd6cefae4110a6c0f3ac04bac,DR. Stark,stark@gmail.com,upi,dosen,sinta.com,sinta.com,sinta.com,validator
+3,validator_terbaru,pbkdf2_sha256$100000$95184bcab3d8c1d979f935d0e6b1ade9$a838ede2b28baedccaf37a296f18c631d0862151d5bcc1e51fe34672179b696c,Kautsar,uwi@gmail.com,upi,mahasiswa s4,https://scopus.com,https://sinta.com,https://scholar.com,validator

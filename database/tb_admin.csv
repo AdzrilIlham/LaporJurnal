@@ -1,0 +1,2 @@
+admin_id,username,password,full_name,email,role
+1,admin1,pbkdf2_sha256$100000$cb8313cf8cb1fe0dd9bf9b96d4b1d6a4$904748ce5dcc96475aeb7f7b7442bb057fce27705073cc067f9c0d457245ff22,Admin User,admin@example.com,admin
